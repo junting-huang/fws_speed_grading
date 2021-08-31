@@ -6,5 +6,8 @@ This is a web application that generates written comments based on customized gr
 * grading_rubric.csv </br>
 This is the grading rubric in csv format.
 
+* writing_issue.csv </br>
+This is the writing issue directory in csv format.
+
 * speed_grader.ipynb </br>
 This is the main jypter notebook file created by Google Colab.
