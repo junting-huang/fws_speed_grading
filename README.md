@@ -1,4 +1,4 @@
-# Speed Grader
+# FWS Speed Grader
 This is a light web application (with Google Colab) that generates written comments based on customized grading rubrics. To run the application, select the "speed_grader.ipynb" file and click "Open in Colab." Run the cell and follow its instructions.
 
 ## File List
