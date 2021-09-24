@@ -11,3 +11,6 @@ This is the writing issue directory in csv format.
 
 * speed_grader.ipynb </br>
 This is the main jypter notebook file created by Google Colab.
+
+## Crowdsourcing Rubrics
+If you are using writing rubrics and/or have a repository of common student writing issues, we can crowdsource these contents to improve and customize the tool for your class. Use "grading_rubric.csv" and "writing_issue.csv" files as examples.
